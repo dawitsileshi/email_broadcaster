@@ -1,0 +1,5 @@
+{
+  "name": "Email Broadcaster",
+  "description": "An application that reads inbox from a specific gmail account and broadcasts it to the registered Gmail accounts",
+  "repository": "http://github.com/dawitsileshi/email_broadcaster"
+}
